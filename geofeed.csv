@@ -1,10 +1,10 @@
 23.249.16.0/23,JP,JP-13,Tokyo,
+23.249.18.0/23,HK,,Kowloon,
 23.249.20.0/23,JP,JP-13,Tokyo,
+23.249.22.0/23,US,US-CA,Los Angeles,
 23.249.24.0/23,JP,JP-13,Tokyo,
 23.249.26.0/23,SG,SG-01,Singapore,
-45.45.225.0/24,US,US-CA,Los Angeles,
-23.249.22.0/23,US,US-CA,Los Angeles,
-50.114.59.0/24,HK,,Kowloon,
+
 198.176.48.0/23,US,US-CA,Los Angeles,
 198.176.50.0/24,US,US-CA,Los Angeles,
 198.176.51.0/24,TW,TW-TPE,Taipei,
@@ -15,14 +15,52 @@
 198.176.56.0/24,US,US-CA,Los Angeles,
 198.176.57.0/24,SG,SG-01,Singapore,
 198.176.58.0/24,TW,TW-TPE,Taipei,
-43.255.122.0/24,HK,,Kowloon,
-45.39.198.0/23,HK,,Kowloon,
-23.249.18.0/23,HK,,Kowloon,
-206.237.115.0/24,HK,,Kowloon,
+
+103.116.72.0/24,HK,,Kowloon,
+103.116.73.0/24,HK,,Kowloon,
 103.116.74.0/24,HK,,Kowloon,
+103.116.75.0/24,US,US-CA,Los Angeles,
+
+182.255.32.0/24,HK,,Kowloon,
+182.255.33.0/24,HK,,Kowloon,
+182.255.34.0/24,SG,SG-01,Singapore,
+182.255.35.0/24,HK,,Kowloon,
+
+103.200.112.0/23,HK,,Kowloon,
+199.15.76.0/22,HK,,Kowloon,
+103.102.4.0/24,US,US-CA,Los Angeles,
+103.102.5.0/24,US,US-CA,Los Angeles,
+103.102.7.0/24,US,US-CA,Los Angeles,
+
+103.169.216.0/24,JP,JP-13,,
+103.169.217.0/24,JP,JP-13,,
+185.188.5.0/24,JP,JP-13,,
+
+124.108.20.0/24,US,US-WA,Seattle,
+124.108.22.0/23,US,US-CA,Los Angeles,
+
+
+# BYOIP
+38.6.230.0/24,HK,,Kowloon,
+45.45.225.0/24,US,US-CA,Los Angeles,
+50.114.59.0/24,HK,,Kowloon,
+103.175.14.0/24,HK,,Kowloon,
+103.175.15.0/24,HK,,Kowloon,
+124.108.21.0/24,HK,,Kowloon,
+161.129.43.0/24,HK,,Kowloon,
+206.237.115.0/24,HK,,Kowloon,
+
+# IPv6
 2a0b:4340:570::/44,HK,,Kowloon,
 2607:8140::/40,US,US-CA,Los Angeles,
 2607:8140:100::/40,HK,,Kowloon,
 2607:8140:110::/44,TW,TW-TPE,Taipei,
 2607:8140:120::/44,SG,SG-01,Singapore,
 2607:8140:200::/40,JP,JP-13,Tokyo,
+
+2a0f:7802:f000::/44,HK,,,
+2401:d9c0:2000::/36,HK,,,
+2001:df7:e580::/48,HK,,,
+
+# Joyso
+103.23.88.0/23,TW,TW-TPE,Taipei,
