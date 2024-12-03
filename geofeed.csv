@@ -61,6 +61,7 @@
 # IPv6
 2607:8140::/40,US,US-CA,Los Angeles,
 2607:8140:100::/40,HK,,Kowloon,
+2401:5a0:2000::/40,HK,,Kowloon,
 2607:8140:110::/44,TW,TW-TPE,Taipei,
 2607:8140:120::/44,SG,SG-01,Singapore,
 2607:8140:200::/40,JP,JP-13,Tokyo,
