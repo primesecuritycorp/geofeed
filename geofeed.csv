@@ -15,6 +15,7 @@
 23.249.28.0/23,HK,,Kowloon,
 23.249.28.0/24,HK,,Kowloon,
 23.249.29.0/24,HK,,Kowloon,
+198.176.58.0/24,HK,,Kowloon,
 198.176.54.0/24,HK,,Kowloon,
 198.176.55.0/25,HK,,Kowloon,
 103.116.72.0/24,HK,,Kowloon,
@@ -31,13 +32,13 @@
 23.249.30.0/24,US,US-CA,Los Angeles,
 23.249.31.0/24,US,US-CA,Los Angeles,
 198.176.48.0/23,US,US-CA,Los Angeles,
-198.176.50.0/24,US,US-CA,Los Angeles,
 198.176.52.0/23,US,US-CA,Los Angeles,
 103.116.75.0/24,US,US-CA,Los Angeles,
 103.102.4.0/24,US,US-CA,Los Angeles,
 103.102.5.0/24,US,US-CA,Los Angeles,
 103.102.7.0/24,US,US-CA,Los Angeles,
 124.108.22.0/23,US,US-CA,Los Angeles,
+198.176.50.0/24,US,US-CA,Los Angeles,
 
 124.108.20.0/24,US,US-WA,Seattle,
 
@@ -50,7 +51,6 @@
 182.255.34.0/24,SG,SG-01,Singapore,
 
 198.176.51.0/24,TW,TW-TPE,Taipei,
-198.176.58.0/24,TW,TW-TPE,Taipei,
 
 103.169.216.0/24,JP,JP-13,,
 103.169.217.0/24,JP,JP-13,,
