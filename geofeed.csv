@@ -66,6 +66,8 @@
 182.255.34.0/24,SG,SG-01,Singapore,
 172.81.108.0/24,SG,SG-01,Singapore,
 172.81.110.0/24,SG,SG-01,Singapore,
+104.251.233.0/24,SG,SG-01,Singapore,
+104.251.234.0/24,SG,SG-01,Singapore,
 
 
 # BYOIP
